@@ -1,0 +1,10 @@
+Heading Utama: WELCOME!
+H1: WELCOME!
+H3: Pengalaman
+H3: Keterampilan
+H3: Fakta Menarik
+Paragraf 1 dalam Tentang: Network Engineer
+Paragraf 2 dalam Tentang: Saya seorang Network Engineer
+Link Navigasi: #tentang - Tentang
+Link Navigasi: #pengalaman - Pengalaman
+Link Navigasi: #kontak - Kontak
